@@ -1,6 +1,7 @@
 {
     "name": "dashboard",
     "version": "0.1.0",
+    "homepage": "https://jayanilsharma.github.io/jayanilsharma.ct_demo.io",
     "private": true,
     "scripts": {
       "serve": "vue-cli-service serve",
