@@ -1,0 +1,25 @@
+{
+    "d": [
+      {
+        "identity": "1189549",       
+        "type": "profile",
+        "profileData": {
+          "Name": "Jack Montana",
+          "Email": "jack@gmail.com",
+          "Phone": "+14155551234",
+          "Gender": "M",
+          "MSG-sms": false,
+          "MSG-whatsapp": true,
+          "MSG-dndPhone": true, 
+          "category-unsubscribe": {
+              "email": ["Newsletters", "Promotions"]
+          },
+          "DOB": "$D_1487576752",
+         "Customer Type": "Platinum",
+          "Custom Multi Value":{"$remove":["shoes","bags"]},
+          "My Number 1": {"$incr" : 10},
+          "My Number 2": {"$decr" : 30}
+        }
+      }
+    ]
+  }
